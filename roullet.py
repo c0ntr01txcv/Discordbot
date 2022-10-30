@@ -6,9 +6,9 @@ from discord import Button, ButtonStyle
 import copy
 
 # 自分のBotのアクセストークンに置き換えてください
-TOKEN = 'MTAzMzk4MzYzNjU4MTY2NjgxNw.GNJWKk.AxFNwhLvwhfZ8vblJrVLm3qxg0DGAU3cEWaueA'
-SERVER_ID = 998193477038911588
-CHANNEL_ID = 1034029270911176715
+TOKEN = 
+SERVER_ID = 
+CHANNEL_ID = 
 MY_GUILD = discord.Object(id=SERVER_ID)
 
 class MyClient(discord.Client):
